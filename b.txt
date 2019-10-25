@@ -1,2 +1,6 @@
 change 1
 change 2
+function testing() {
+    a=3+2;
+    echo a;
+}
